@@ -1,4 +1,4 @@
-def triangle_fractals(inserting=False):
+def triangle_fractal(inserting=False):
   import turtle as tr
   tr.tracer(False)
   p=tr.Pen()
