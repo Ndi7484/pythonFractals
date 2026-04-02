@@ -8,7 +8,7 @@ print('='*35)
 print('add \'a\' on the end to use default option')
 print('='*35)
 n=1
-for i in ['Sierpiński triangle - origin','Sierpiński square - origin','Koch Curve','Koch Snowflake']:
+for i in ['Sierpiński triangle - origin','Sierpiński square - origin','Koch Curve - 60','Koch Snowflake']:
   print(f'{n}. {i}')
   n+=1
 pilihan=input('select fractals :')
